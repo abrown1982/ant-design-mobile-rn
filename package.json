@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/abrown1982/ant-design-mobile-rn"
+    "url": "http://github.com/ant-design/ant-design-mobile-rn"
   },
   "bugs": {
-    "url": "http://github.com/abrown1982/ant-design-mobile-rn/issues"
+    "url": "http://github.com/ant-design/ant-design-mobile-rn/issues"
   },
   "files": [
     "lib",
@@ -101,7 +101,7 @@
     "typescript": "^4.3.2"
   },
   "peerDependencies": {
-    "@react-native-camera-roll/camera-roll": ">= 5.0.0",
+    "@react-native-camera-roll/camera-roll": ">= 5.1.0",
     "@react-native-community/segmented-control": ">= 1.4.0",
     "@react-native-community/slider": ">= 2.0.0",
     "@react-native-picker/picker": "^1.9.10",
