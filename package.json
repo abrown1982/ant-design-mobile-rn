@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/ant-design/ant-design-mobile-rn"
+    "url": "http://github.com/abrown1982/ant-design-mobile-rn"
   },
   "bugs": {
-    "url": "http://github.com/ant-design/ant-design-mobile-rn/issues"
+    "url": "http://github.com/abrown1982/ant-design-mobile-rn/issues"
   },
   "files": [
     "lib",
